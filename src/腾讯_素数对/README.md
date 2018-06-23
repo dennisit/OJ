@@ -1,0 +1,1 @@
+[素数对](https://www.nowcoder.com/practice/c96d6acc025541ffb79c579688f8d003?tpId=85&tqId=29872&tPage=3&rp=3&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
