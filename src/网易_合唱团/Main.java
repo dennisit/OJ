@@ -2,8 +2,10 @@ package 网易_合唱团;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Main
+{
+    public static void main(String[] args)
+    {
         Scanner in = new Scanner(System.in);
         while (in.hasNext()) {
             int N = in.nextInt();
@@ -13,7 +15,7 @@ public class Main {
             }
             int K = in.nextInt();
             int D = in.nextInt();
-            // 要考虑正负号，所以需要记录最大值和最小值
+            /* 要考虑正负号，所以需要记录最大值和最小值 */
             long[][] max = new long[K + 1][N + 1];
             long[][] min = new long[K + 1][N + 1];
             long ret = Long.MIN_VALUE;
