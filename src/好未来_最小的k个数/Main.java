@@ -1,4 +1,4 @@
-package 好未来_n个数里最小的k个;
+package 好未来_最小的k个数;
 
 import java.util.ArrayList;
 import java.util.Arrays;

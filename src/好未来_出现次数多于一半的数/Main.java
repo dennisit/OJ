@@ -1,4 +1,4 @@
-package 好未来_n个数里出现次数大于等于一半的数;
+package 好未来_出现次数多于一半的数;
 
 import java.util.Scanner;
 
